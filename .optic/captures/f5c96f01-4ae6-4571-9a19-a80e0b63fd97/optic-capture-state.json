@@ -1,0 +1,1 @@
+{"captureId":"f5c96f01-4ae6-4571-9a19-a80e0b63fd97","status":"completed","metadata":{"startedAt":"2020-07-21T18:51:22.528Z","taskConfig":{"command":"node server.js","serviceConfig":{"host":"localhost","protocol":"http:","port":3300,"basePath":"/"},"proxyConfig":{"host":"localhost","protocol":"http:","port":4000,"basePath":"/"}},"lastInteraction":null}}

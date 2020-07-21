@@ -1,0 +1,1 @@
+[[{"UnmatchedResponseBodyShape":{"interactionTrail":{"path":[{"ResponseBody":{"contentType":"application/json","statusCode":200}}]},"requestsTrail":{"SpecResponseBody":{"responseId":"response_9u5SWXqPtQ"}},"shapeDiffResult":{"UnspecifiedShape":{"jsonTrail":{"path":[{"JsonObjectKey":{"key":"tags"}}]},"shapeTrail":{"rootShapeId":"shape_IGKI6lNIZC","path":[]}}}}},["0-0"]]]

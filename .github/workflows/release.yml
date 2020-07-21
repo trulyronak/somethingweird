@@ -1,0 +1,14 @@
+on:
+  push:
+  
+name: test
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12
+      run: echo ::set-env name=MESSAGE::"trulyronak released version $(npm view @useoptic/cli version) ; Publish Release Notes <a href="https://github.com/opticdev/optic/releases"> here</a>"
+    - run: echo $MESSAGE
